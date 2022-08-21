@@ -1,0 +1,3 @@
+# FirstConsoleApp.Tests
+
+## Testing solution
